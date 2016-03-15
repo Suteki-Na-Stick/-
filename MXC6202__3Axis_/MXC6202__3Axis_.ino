@@ -1,3 +1,7 @@
+//2016_3.16 mariko original
+//↓mxc6202 datasheet
+//https://www.dropbox.com/s/j13ehxiy3l070rp/MXC6202.pdf
+
 #include <Wire.h>
 
 #define MXC6202 0x15
